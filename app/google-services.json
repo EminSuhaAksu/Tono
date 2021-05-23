@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382548331334",
+    "project_id": "tonov3",
+    "storage_bucket": "tonov3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382548331334:android:bec2b7e81eed517f25f347",
+        "android_client_info": {
+          "package_name": "org.o7plannig.tonov3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382548331334-a9iu9prjevp7qk3gpeufctaijl9k7400.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGfThpEgmPqcv6sqkfsjbOs4HA-ExCY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382548331334-a9iu9prjevp7qk3gpeufctaijl9k7400.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
